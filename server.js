@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
   THIS IS ONLY HERE for testing purposes!
   You will write something like this yourself for you server.

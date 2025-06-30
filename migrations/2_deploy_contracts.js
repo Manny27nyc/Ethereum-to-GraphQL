@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var ConvertLib = artifacts.require("./ConvertLib.sol");
 var MetaCoin = artifacts.require("./MetaCoin.sol");
 

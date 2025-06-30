@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { graphql } = require('graphql')
 const TFcontract = require('truffle-contract')
 const MetaCoinArtifact = require('../build/contracts/Metacoin')
